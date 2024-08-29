@@ -5,12 +5,12 @@
 ## 📑 Table of Contents
 - [Overview](#overview)
 - [Goals](#goals)
-- [Technologies & Tools](#technologies-&-tools)
+- [Technologies & Tools](#technologies--tools)
 - [Getting Started](#getting-started)
 - [Project Progress](#project-progress)
 - [Challenges](#challenges)
 - [Learnings](#learnings)
-- [Feedback and Contact](#feedback-and-contact)
+- [Feedback & Contact](#feedback--contact)
 
 ## 📖 Overview
 
