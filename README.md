@@ -42,7 +42,7 @@ Coming soon.
 ## Learnings
 Coming soon.
 
-## Feedback and Contact
+## Feedback & Contact
 Feel free to open issues or provide feedback. Contributions and suggestions are welcome! Reach out to me at:
 - **Email**: [im.priscilla.trejo@gmail.com](mailto:im.priscilla.trejo@gmail.com)
 - **LinkedIn**: [Priscilla Trejo](https://www.linkedin.com/in/priscillantrejo/)
